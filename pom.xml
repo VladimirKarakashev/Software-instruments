@@ -6,6 +6,7 @@
 
     <modules>
 		<module>Module B</module>
+		<module>Module C</module>
 	</modules>
 
     <parent>
